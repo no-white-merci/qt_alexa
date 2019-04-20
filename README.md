@@ -1,4 +1,4 @@
-# qt_alexa
+﻿# qt_alexa
 qt_alexa_hackton
 
 ## メンバー
@@ -6,3 +6,4 @@ qt_alexa_hackton
 しばたー！
 しむら
 のあ！
+jgrjgwrpjgjgewrjgjg-
