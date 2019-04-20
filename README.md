@@ -6,4 +6,7 @@ qt_alexa_hackton
 しばたー！
 しむら
 のあ！
+<<<<<<< HEAD
 hgfohfowdhfoihewdfhoisdghisdjklvghdjklvhdolvghjedvhfhvgoiedhoihoidhw
+=======
+>>>>>>> 722724f5ac56577f6bfdaba296e40c052d4a710d
